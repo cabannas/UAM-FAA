@@ -16,5 +16,5 @@ This project is subject to copyright and licensing terms as established by the F
 
 #### Authors
 - Daniel Cabanas: https://github.com/cabannas
-- Alfredo de Frutos: https://github.com/-
+- Alfredo de Frutos: https://github.com/AlfredBrb
 
